@@ -1,6 +1,6 @@
 Name:		texlive-musixtnt
 Version:	40307
-Release:	1
+Release:	2
 Summary:	A MusiXTeX extension library that enables transformations of the effect of notes commands
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/musixtnt
